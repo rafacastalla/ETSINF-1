@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.params=numPlanta\ numLlocs
+comment0.target=Planta(int,\ int)
+comment0.text=\ Constructor\ que\ crea\ una\ Planta\ donats\ un\ numero\ \r\n\ de\ planta\ i\ un\ numero\ de\ llocs\ per\ planta.\r\n\ La\ planta,\ al\ principi,\ esta\ buida.\r\n\ @param\ numPlanta\ int\ numero\ de\ planta,\ numPlanta\ >\=\ 0.\r\n\ @param\ numLlocs\ int\ numero\ de\ llocs\ per\ planta,\ numLlocs\ >\ 0.\r\n
+comment1.params=
+comment1.target=int\ getPlanta()
+comment2.params=
+comment2.target=int\ getLlocsLliures()
+comment2.text=\ Torna\ el\ numero\ de\ planta.\r\n\ @return\ int\ numero\ de\ planta\ del\ parking.\r\n
+comment3.params=
+comment3.target=boolean\ esPlena()
+comment3.text=\ Torna\ si\ la\ planta\ es\ plena.\r\n\ @return\ boolean\ planta\ plena\ (sense\ llocs\ lliures).\r\n
+comment4.params=
+comment4.target=int\ primerLliure()
+comment5.params=m\ h
+comment5.target=Lloc\ entrarCotxe(java.lang.String,\ Hora)
+comment5.text=\ Torna\ el\ primer\ lloc\ lliure\ en\ la\ planta,\ o\ -1\ \r\n\ si\ no\ hi\ ha\ llocs\ lliures.\r\n\ @return\ int,\ index\ del\ primer\ lloc\ lliure\ en\ la\ \r\n\ planta,\ o\ -1\ si\ no\ hi\ ha\ llocs\ lliures.\r\n
+comment6.params=m
+comment6.target=Lloc\ cercarCotxe(java.lang.String)
+comment6.text=\ Entra\ un\ cotxe\ en\ la\ planta\ i\ torna\ el\ seu\ lloc,\r\n\ o\ null\ quan\ no\ hi\ ha\ llocs\ lliures\r\n\ Precondicio\:\ el\ cotxe\ no\ hi\ es\ a\ la\ planta.\r\n\ @param\ m\ String\ matricula\ del\ cotxe.\r\n\ @param\ h\ Hora\ hora\ d'entrada\ del\ cotxe.\r\n\ @return\ Lloc\ si\ el\ cotxe\ entra,\ o\ null\ en\ cas\ contrari.\r\n
+comment7.params=m\ h
+comment7.target=int\ eixirCotxe(java.lang.String,\ Hora)
+comment7.text=\ Comprova\ si\ un\ cotxe\ donat\ esta\ en\ la\ planta.\r\n\ @param\ m\ String\ matricula\ del\ cotxe\ a\ buscar.\r\n\ @return\ Lloc,\ el\ lloc\ que\ ocupa\ el\ cotxe,\ si\ es\ \r\n\ troba,\ o\ null\ si\ no\ es\ troba.\r\n
+comment8.params=h
+comment8.target=int\ buidarPlanta(Hora)
+comment8.text=\ Trau\ el\ cotxe\ del\ parking,\ tornant\ quants\ minuts\ ha\ estat.\r\n\ @param\ m\ String\ matricula\ del\ cotxe.\ Precondicio\:\ sempre\ esta.\r\n\ @param\ h\ Hora\ hora\ d'eixida.\ Precondicio\:\ posterior\ a\ l'hora\ \r\n\ \ \ d'entrada\ del\ cotxe.\r\n\ @return\ int,\ numero\ de\ minuts\ que\ el\ cotxe\ ha\ estat\ en\ el\ parking.\r\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\ Buida\ toda\ la\ planta\ i\ torna\ el\ numero\ total\ de\ \r\n\ minuts\ que\ els\ cotxes\ han\ estat\ \r\n\ en\ la\ planta\ fins\ una\ hora\ donada.\r\n\ @param\ h\ Hora\ hora\ en\ la\ que\ tots\ els\ cotxes\ han\ \r\n\ \ \ d'eixir.\ Precondicio\:\ posterior\ a\ l'hora\ d'entrada.\r\n\ @return\ int,\ numero\ total\ de\ minuts\ transcorreguts.\r\n
+numComments=10

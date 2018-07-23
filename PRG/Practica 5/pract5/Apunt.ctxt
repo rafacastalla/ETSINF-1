@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=des\ quan
+comment0.target=Apunt(java.lang.String,\ double)
+comment0.text=\n\ Constructor\ que,\ donades\ una\ descripci\u00F3\ i\ una\ quantitat,\ \n\ crea\ un\ Apunt.\n\ @param\ des\ String\ que\ representa\ la\ descripci\u00F3.\n\ @param\ can\ double\ que\ representa\ la\ quantitat.\n
+comment1.params=
+comment1.target=java.lang.String\ getDescripcio()
+comment1.text=\n\ Torna\ la\ descripci\u00F3\ de\ l'apunt.\n\ @return\ String,\ la\ descripci\u00F3.\ \n
+comment2.params=
+comment2.target=double\ getQuantitat()
+comment2.text=\n\ Torna\ la\ quantitat\ de\ l'apunt.\n\ @return\ double,\ la\ quantitat.\ \n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Torna\ un\ String\ amb\ la\ descripci\u00F3\ i\ la\ quantitat\n\ de\ l'apunt\ separats\ per\ "\:\ ".\n\ @return\ String.\n
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=BonoMetro(int)
+comment0.text=\ Crea\ un\ BonoMetro\ amb\ n\ tiquets.\r\n\ \ @param\ n\ int\ amb\ el\ nombre\ de\ tiquets.\r\n
+comment1.params=
+comment1.target=BonoMetro()
+comment1.text=Crea\ un\ BonoMetro,\ per\ defecte,\ amb\ 10\ tiquets.
+comment2.params=
+comment2.target=int\ getNumTiquets()
+comment2.text=\ Torna\ el\ n\u00FAmero\ de\ viatges\ disponibles.\r\n\ \ @return\ int,\ els\ viatges\ disponibles.\ \ \r\n
+comment3.params=quantitat
+comment3.target=void\ recarregar(int)
+comment3.text=\ Carrega\ el\ bonometro\ amb\ una\ quantitat\ donada\ de\ viatges.\r\n\ \ @param\ quantitat\ int\ amb\ el\ nombre\ de\ viatges\ a\ carregar.\ \ \r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ Torna\ un\ String\ amb\ la\ informaci\u00F3\ del\ bonometro.\r\n\ \ @return\ String.\ \ \r\n
+comment5.params=
+comment5.target=java.lang.String\ picar()
+comment5.text=\ Si\ queden\ viatges,\ actualitza\ el\ nombre\ de\ tiquets\ \r\n\ \ i\ torna\ el\ missatge\ "Bono\ amb\ xxx\ tiquets".\ Si\ no\ queden\ \r\n\ \ viatges\ torna\ el\ missatge\ "Bono\ esgotat.\ Rec\u00E0rrega'l\ JA\!"\ \r\n\ \ @return\ String.\ \r\n
+numComments=6

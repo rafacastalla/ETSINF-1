@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Entregable12()
+comment1.params=n
+comment1.target=java.lang.String\ tornaLinia(int)
+comment1.text=\ Torna\ un\ String\ amb\ una\ linia\ de\ n\ >\=\ 0\ asteriscs,\r\n\ \ acabada\ per\ un\ caracter\ de\ canvi\ de\ linia.\r\n\ \ Precondicio\:\ n\ >\=\ 0\ \r\n
+comment2.params=n
+comment2.target=java.lang.String\ trgSuperior(int)
+comment2.text=\ Torna\ un\ String\ que\ cont\u00E9\ un\ triangle\ rectangle\ de\ n\ >\=\ 1\ \r\n\ \ linies\ d'amplaries\ decreixents\ d'asteriscs.\ \r\n\ \ Exemple\ la\ crida\ trgSuperior(4)\ tornaria\ el\ String\r\n\ \ "****\\n***\\n**\\n*\\n"\r\n\ \ que\ escrit\ per\ pantalla\ seria\:\r\n\ \ ****\r\n\ \ ***\r\n\ \ **\r\n\ \ *\r\n\ \ nota\:\ Fa\ servir\ el\ metode\ tornaLinia(int).\ \r\n\ \ Precondicio\:\ n>\=1\r\n
+comment3.params=n
+comment3.target=java.lang.String\ trgInferior(int)
+comment3.text=\ Torna\ un\ String\ que\ cont\u00E9\ un\ triangle\ rectangle\ de\ n\ >\=\ 1\ \r\n\ \ linies\ d'amplaries\ decreixents\ d'asteriscs.\ \r\n\ \ Exemple\ la\ crida\ trgSuperior(4)\ tornaria\ el\ String\r\n\ \ "*\\n**\\n***\\n****\\n"\r\n\ \ que\ escrit\ per\ pantalla\ seria\:\r\n\ \ *\r\n\ \ **\r\n\ \ ***\r\n\ \ ****\r\n\ \ nota\:\ Fa\ servir\ el\ metode\ tornaLinia(int).\ \r\n\ \ Precondicio\:\ n>\=1\r\n
+comment4.params=a\ x\ pos
+comment4.target=boolean\ progressioGeometrica(int[],\ int,\ int)
+comment4.text=\ Comprova\ si\ les\ components\ de\ l'array\ a\ d'enters\r\n\ \ formen\ una\ progressio\ geometrica\ de\ rao\ x.\r\n\ \ Precondicio\:\ a.lentgh\ >\ 0,\ pos\ >\ 0,\ x\ \!\=\ 0\r\n\ \ Crida\ inicial\:\ progressioGeometrica(a,\ x,\ 1);\r\n
+comment5.params=a\ x
+comment5.target=boolean\ progressioGeometrica(int[],\ int)
+comment5.text=\ Metode\ llan\u00E7adera\ para\ comprovar\ si\ les\ components\r\n\ de\ l'array\ a\ d'enters\ formen\ una\ progressio\ geometrica\ \r\n\ de\ rao\ x\r\n\ COPIA\ LA\ CRIDA\ INICIAL\ INDICADA\ ABANS\r\n
+comment6.params=s
+comment6.target=java.lang.String\ inversa(java.lang.String)
+comment6.text=\ Torna\ la\ String\ inversa\ de\ s.\r\n\ \ Precondicio\:\ s\ \!null\r\n
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=tec
+comment1.target=int\ menu(java.util.Scanner)
+comment1.text=\n\ Mostra\ un\ men\u00FA\ d'opcions\ per\ pantalla\ i\ permet\ \n\ que\ l'usuari\ trie\ una\ d'elles.\n\ @param\ tec\ Scanner\ per\ a\ realitzar\ la\ lectura.\n\ @return\ int,\ enter\ que\ representa\ l'opci\u00F3\ triada.\n
+comment2.params=tec
+comment2.target=double\ getQuantitat(java.util.Scanner)
+comment2.text=\n\ Realitza\ la\ lectura\ d'una\ quantitat\ v\u00E0lida\ (un\ valor\ real\ >\=0).\n\ @param\ tec\ Scanner\ per\ a\ realitzar\ la\ lectura.\n\ @return\ double,\ real\ >\=0\ que\ representa\ la\ quantitat\ llegida.\n
+comment3.params=tec
+comment3.target=int\ getNumCompte(java.util.Scanner)
+comment3.text=\n\ Realitza\ la\ lectura\ d'un\ n\u00FAmero\ de\ compte\ v\u00E0lid\ (un\ valor\ enter\n\ de\ 5\ d\u00EDgits).\n\ @param\ tec\ Scanner\ per\ a\ realitzar\ la\ lectura.\n\ @return\ int,\ enter\ de\ 5\ d\u00EDgits\ que\ representa\ el\ n\u00FAmero\ \n\ de\ compte\ llegit.\n
+comment4.params=tec\ compte
+comment4.target=int\ getNumApunts(java.util.Scanner,\ CompteAp)
+numComments=5

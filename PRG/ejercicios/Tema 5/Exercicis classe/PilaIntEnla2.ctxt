@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PilaIntEnla2()
+comment0.text=\r\n\ Crea\ una\ pila\ buida.\r\n
+comment1.params=x
+comment1.target=void\ empilar(int)
+comment1.text=\r\n\ Empila\ un\ nou\ element\ en\ la\ pila.\r\n\ @param\ x,\ int\ a\ empilar\ en\ la\ pila\ actual.\r\n
+comment2.params=
+comment2.target=int\ desempilar()
+comment2.text=\r\n\ Torna\ i\ desempila\ el\ cim\ de\ la\ pila.\r\n\ @throws\ NoSuchElementException\ si\ la\ pila\ est\u00E1\ buida.\ \r\n\ @return\ int,\ dada\ de\ l'element\ cim\ desempilat\ de\ la\ pila\ actual.\r\n
+comment3.params=
+comment3.target=int\ cim()
+comment3.text=\r\n\ Torna\ la\ dada\ de\ l'element\ cim\ de\ la\ pila\ actual.\r\n\ @throws\ NoSuchElementException\ si\ la\ pila\ est\u00E1\ buida.\ \r\n\ @return\ int,\ dada\ de\ l'element\ cim\ de\ la\ pila\ actual.\r\n
+comment4.params=
+comment4.target=boolean\ esBuida()
+comment4.text=\r\n\ Comprova\ si\ la\ pila\ actual\ est\u00E0\ o\ no\ buida.\r\n\ @return\ boolean,\ true\ si\ la\ pila\ est\u00E0\ buida\ i\ false\ en\ cas\ contrari.\r\n
+comment5.params=
+comment5.target=int\ talla()
+comment5.text=\r\n\ Torna\ el\ n\u00FAmero\ d'elements\ de\ la\ pila\ actual.\r\n\ @return\ int,\ n\u00FAmero\ d'elements\ de\ la\ pila\ actual.\r\n
+numComments=6

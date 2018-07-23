@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=color\ radiBase\ alt
+comment0.target=Cilindre(java.lang.String,\ double,\ double)
+comment0.text=\r\n\ Crea\ un\ nou\ Cilindre\ donats\ el\ seu\ color,\ el\ radi\ de\ la\ seua\ base\ \r\n\ i\ la\ seua\ altura.\r\n\ @param\ color\ String\ que\ representa\ el\ color.\r\n\ @param\ radiBase\ double\ que\ representa\ el\ radi\ de\ la\ base.\r\n\ @param\ alt\ double\ que\ representa\ l'altura.\r\n
+comment1.params=
+comment1.target=double\ getAltura()
+comment1.text=\r\n\ Torna\ l'altura\ del\ Cilindre\ actual.\r\n\ @return\ double,\ l'altura.\r\n
+comment2.params=a
+comment2.target=void\ setAltura(double)
+comment2.text=\r\n\ Actualitza\ l'altura\ del\ Cilindre\ actual.\r\n\ @param\ a\ double\ que\ representa\ la\ nova\ altura.\r\n
+comment3.params=
+comment3.target=double\ getArea()
+comment3.text=\r\n\ Torna\ l'area\ del\ Cilindre\ actual.\r\n\ @return\ double,\ l'area.\r\n
+comment4.params=
+comment4.target=double\ getVolum()
+comment4.text=\r\n\ Torna\ el\ volum\ del\ Cilindre\ actual.\r\n\ @return\ double,\ el\ volum.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Torna\ un\ String\ amb\ les\ dades\ del\ Cilindre\ actual.\r\n\ @return\ String.\r\n
+numComments=6

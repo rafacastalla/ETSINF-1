@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=hostName\ localFilePath
+comment0.target=void\ copyTo(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Realitza\ la\ transferencia\ d'un\ arxiu\ donat\ a\ una\ maquina\ donada.\r\n\ @param\ hostName\ String\ amb\ el\ nom\ de\ la\ m\u00E0quina.\r\n\ @param\ localFilePath\ String\ amb\ el\ nom\ de\ l'arxiu.\r\n\ @throws\ UnableToTransferException\ quan\ no\ es\ pot\ fer\ la\ transferencia.\r\n
+numComments=1

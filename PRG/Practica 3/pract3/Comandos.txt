@@ -1,0 +1,76 @@
+#********** Mesura Seleccio Servidor ************
+
+plot "mesuraSeleccioServidor.txt" using 1:2 title "Promedi"
+set term jpeg
+set output "mesuraSeleccioServidor.jpg"
+replot
+set term x11
+set output
+set xlabel "Talla"
+set ylabel "Promedi"
+f(x)=a*x*x+b*x+c
+fit f(x) "mesuraSeleccioServidor.txt" using 1:2 via a,b,c
+plot "mesuraSeleccioServidor.txt" using 1:2 title "Promedi", f(x)
+set term jpeg
+set output "mesuraSeleccioServidorLinies.jpg"
+replot
+set term x11
+set output
+
+#********** Mesura Seleccio PC ************
+plot "mesuraSeleccioPC.out" using 1:2 title "Promedi"
+set term jpeg
+set output "mesuraSeleccioPC.jpg"
+replot
+set term x11
+set output
+set xlabel "Talla"
+set ylabel "Promedi"
+f(x)=a*x*x+b*x+c
+fit f(x) "mesuraSeleccioPC.out" using 1:2 via a,b,c
+plot "mesuraSeleccioPC.out" using 1:2 title "Promedi", f(x)
+set term jpeg
+set output "mesuraSeleccioPCLinies.jpg"
+replot
+set term x11
+set output
+
+#********** Mesura Insercio Servidor ************
+plot "mesuraInsercioServidor.txt" using 1:2 title "Pijor", "mesuraInsercioServidor.txt" using 1:3 title "Millor", "mesuraInsercioServidor.txt" using 1:4 title "Promedi"
+
+set term jpeg
+set output "mesuraInsercioServidor.jpg"
+replot
+set term x11
+set output
+set xlabel "Talla"
+set ylabel "Promedi"
+f(x)=a*x*x+b*x+c
+fit f(x) "mesuraInsercioServidor.txt" using 1:4 via a,b,c
+plot "mesuraInsercioServidor.txt" using 1:2 title "Pijor", "mesuraInsercioServidor.txt" using 1:3 title "Millor","mesuraInsercioServidor.txt" using 1:4 title "Promedi", f(x)
+
+set term jpeg
+set output "mesuraInsercioServidorLinies.jpg"
+replot
+set term x11
+set output
+
+#********** Mesura Insercio PC ************
+plot "mesuraInsercioPC.txt" using 1:2 title "Pijor", "mesuraInsercioPC.txt" using 1:3 title "Millor", "mesuraInsercioPC.txt" using 1:4 title "Promedi"
+
+set term jpeg
+set output "mesuraInsercioPC.jpg"
+replot
+set term x11
+set output
+set xlabel "Talla"
+set ylabel "Promedi"
+f(x)=a*x*x+b*x+c
+fit f(x) "mesuraInsercioPC.txt" using 1:4 via a,b,c
+plot "mesuraInsercioPC.txt" using 1:2 title "Pijor", "mesuraInsercioPC.txt" using 1:3 title "Millor","mesuraInsercioPC.txt" using 1:4 title "Promedi", f(x)
+
+set term jpeg
+set output "mesuraInsercioPCLinies.jpg"
+replot
+set term x11
+set output

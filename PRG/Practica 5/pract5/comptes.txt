@@ -1,0 +1,24 @@
+11111 2900.0
+Num. Apunts: 2/2
+       Ingres:    3000.00   Saldo:    3000.00
+Reintegrament:    -100.00   Saldo:    2900.00
+
+11112 800.0
+Num. Apunts: 4/4
+       Ingres:    1999.00   Saldo:    1999.00
+Reintegrament:    -399.00   Saldo:    1600.00
+Reintegrament:   -1000.00   Saldo:     600.00
+       Ingres:     200.00   Saldo:     800.00
+
+12345 5600.0
+Num. Apunts: 3/3
+       Ingres:    1000.00   Saldo:    1000.00
+       Ingres:    5000.00   Saldo:    6000.00
+Reintegrament:    -400.00   Saldo:    5600.00
+
+22222 2800.0
+Num. Apunts: 2/2
+       Ingres:    3000.00   Saldo:    3000.00
+Reintegrament:    -200.00   Saldo:    2800.00
+
+

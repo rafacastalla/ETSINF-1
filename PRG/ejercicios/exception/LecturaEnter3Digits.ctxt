@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=t\ m\ lInf\ lSup
+comment0.target=int\ llegirInt(java.util.Scanner,\ java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Llig\ des\ d'un\ Scanner\ i\ torna\ un\ valor\ enter\ en\ l'interval\ [lInf..lSup].\r\n\ @param\ t\ Scanner\ per\ a\ lectura\ des\ de\ teclat.\r\n\ @param\ m\ String\ per\ a\ petici\u00F3\ de\ valor.\r\n\ @param\ lInf\ int\ que\ indica\ el\ l\u00EDmit\ inferior\ de\ l'interval\ de\ lectura.\r\n\ @param\ lSup\ int\ que\ indica\ el\ l\u00EDmit\ superior\ de\ l'interval\ de\ lectura.\ \r\n\ @return\ int,\ enter\ llegit\ en\ l'interval\ [lInf..lSup].\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

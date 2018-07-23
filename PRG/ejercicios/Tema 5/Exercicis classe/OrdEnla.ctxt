@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=sec
+comment0.target=NodeInt\ insDirecta(NodeInt)
+comment0.text=\r\n\ Donada\ una\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters,\ la\ ordena\ seguint\ una\ \r\n\ estrat\u00E8gia\ d'inserci\u00F3\ directa,\ \u00E9s\ a\ dir,\ inserint\ ordenadament\ \r\n\ les\ succesives\ dades\ de\ sec\ en\ la\ seq\u00FC\u00E8ncia\ resultant.\r\n\ @param\ sec\ NodeInt\ que\ representa\ una\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters\ \r\n\ (al\ menys\ 1).\r\n\ @return\ NodeInt\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters\ ordenada\ ascendentment\r\n\ resultant.\r\n
+comment1.params=sec
+comment1.target=int\ longitud(NodeInt)
+comment1.text=\r\n\ Compta\ i\ torna\ el\ nombre\ d'elements\ d'una\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ donada.\r\n\ @param\ sec\ NodeInt\ que\ representa\ una\ seq\u00FCencia\ enlla\u00E7ada\ d'enters.\r\n\ @return\ int\ nombre\ d'elements\ de\ la\ seq\u00FC\u00E8ncia.\r\n
+comment2.params=sec1\ sec2
+comment2.target=NodeInt\ mescla(NodeInt,\ NodeInt)
+comment2.text=\r\n\ Donades\ dues\ seq\u00FC\u00E8ncies\ enlla\u00E7ades\ d\u2019enters\ ordenades\ \r\n\ ascendentment,\ torna\ una\ tercera\ amb\ la\ mescla\ natural\ \r\n\ o\ fusi\u00F3\ ordenada\ d\u2019ambdues.\ \r\n\ El\ cost\ ha\ de\ ser\ lineal\ amb\ el\ n\u00FAmero\ total\ d\u2019elements\ a\ fusionar.\r\n\ @param\ sec1\ NodeInt\ que\ representa\ una\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters\ \r\n\ ordenada\ ascendentment.\r\n\ @param\ sec2\ NodeInt\ que\ representa\ una\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters\ \r\n\ ordenada\ ascendentment.\r\n\ @return\ NodeInt\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters\ ordenada\ ascendentment\ \r\n\ resultat\ de\ la\ fusi\u00F3.\r\n
+comment3.params=sec\ n
+comment3.target=NodeInt\ mergesort(NodeInt,\ int)
+comment3.text=\r\n\ Donada\ una\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters\ i\ la\ seua\ longitud,\ \r\n\ la\ ordena\ seguint\ una\ estrat\u00E8gia\ recursiva\ an\u00E0loga\ a\ la\ del\ m\u00E8tode\ \r\n\ mergesort\ d\u2019ordenaci\u00F3\ d\u2019arrays.\r\n\ En\ el\ cas\ general\ del\ m\u00E8tode,\ partint\ la\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ en\ \r\n\ dues\ subseq\u00FC\u00E8ncies\ de\ longitud\ similar,\ si\ el\ n\u00FAmero\ d\u2019elements\ \u00E9s\ \r\n\ parell,\ les\ dues\ subseq\u00FC\u00E8ncies\ tindran\ la\ mateixa\ longitud;\ \r\n\ en\ cas\ contrari,\ la\ primera\ subseq\u00FC\u00E8ncia\ es\ quedar\u00E0\ amb\ un\ node\ m\u00E9s\ \r\n\ que\ la\ segona.\ \r\n\ Una\ vegada\ ordenades\ les\ dues\ subseq\u00FC\u00E8ncies,\ s\u2019usar\u00E0\ el\ m\u00E8tode\ \r\n\ mescla\ per\ completar\ l\u2019ordenaci\u00F3.\r\n\ @param\ sec\ NodeInt\ que\ representa\ una\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters.\r\n\ @param\ n\ int\ que\ representa\ la\ longitud\ de\ la\ seq\u00FC\u00E8ncia.\r\n\ @return\ NodeInt\ seq\u00FC\u00E8ncia\ enlla\u00E7ada\ d'enters\ ordenada\ ascendentment\ \r\n\ resultant.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=main\ de\ prova\ dels\ m\u00E8todes\ anteriors
+numComments=5

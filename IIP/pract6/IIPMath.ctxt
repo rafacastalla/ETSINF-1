@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ epsilon
+comment0.target=double\ sqrt(double,\ double)
+comment0.text=\n\ Devuelve\ la\ raiz\ cuadrada\ de\ x\ >\=\ 0,\ con\ error\ epsilon\ >\ 0.\ \n\ A\ COMPLETAR\ COMENTARIO\n
+comment1.params=x
+comment1.target=double\ sqrt(double)
+comment1.text=\n\ Devuelve\ la\ raiz\ cuadrada\ de\ x\ >\=\ 0\ con\ error\ 1e-15.\ \n\ A\ COMPLETAR\ COMENTARIO\n
+comment2.params=z\ epsilon
+comment2.target=double\ logBase(double,\ double)
+comment2.text=\n\ Devuelve\ log(z),\ 1/2\ <\=\ z\ <\ 1,\ con\ error\ epsilon\ >\ 0.\n\ A\ COMPLETAR\ COMENTARIO\n
+comment3.params=x\ epsilon
+comment3.target=double\ log(double,\ double)
+comment3.text=\n\ Devuelve\ log(x),\ x\ >\ 0,\ con\ error\ epsilon\ >\ 0.\n\ A\ COMPLETAR\ COMENTARIO\n
+comment4.params=x
+comment4.target=double\ log(double)
+numComments=5

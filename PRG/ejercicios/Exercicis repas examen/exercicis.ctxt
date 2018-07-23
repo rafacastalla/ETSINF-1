@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.params=m\ a\ i\ f
+comment0.target=int\ simetrics(int,\ int[],\ int,\ int)
+comment1.params=m\ a
+comment1.target=int\ simetrics(int,\ int[])
+comment10.params=n
+comment10.target=void\ escriuNumeros(int)
+comment11.params=ini\ fi\ a\ x
+comment11.target=boolean\ sumSim(int,\ int,\ int[],\ int)
+comment12.params=n
+comment12.target=void\ binari(int)
+comment13.params=a\ x\ i
+comment13.target=boolean\ progressioAritmetica(int[],\ int,\ int)
+comment14.params=n
+comment14.target=void\ escriureNumsNeg(int)
+comment15.params=n
+comment15.target=void\ escriureNums(int)
+comment16.params=ini\ fi\ v\ x
+comment16.target=boolean\ sumSimetrics(int,\ int,\ int[],\ int)
+comment2.params=a\ i\ f
+comment2.target=int\ capicua(int[],\ int,\ int)
+comment3.params=a
+comment3.target=int\ capicua(int[])
+comment4.params=a\ i\ f
+comment4.target=boolean\ esOrdenat(int[],\ int,\ int)
+comment4.text=Torna\ cert\ sii\ a[i..f]\ est\u0012a\ ordenat\ ascendentment.\ Precondici\u0013o\:\ i<\=f
+comment5.params=a\ ini\ fi
+comment5.target=int\ sumaCapicua(int[],\ int,\ int)
+comment6.params=n
+comment6.target=int\ decimalBinari(int)
+comment7.params=n\ exp
+comment7.target=int\ binariDecimal(int,\ int)
+comment8.params=n
+comment8.target=int\ binariDecimalLanzadera(int)
+comment9.params=a\ pos\ x\ m
+comment9.target=int\ esMenor(int[],\ int,\ int,\ int)
+numComments=17

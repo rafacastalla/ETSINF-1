@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=NodeInt(int)
+comment0.text=\ Constructor\ A\:\ crea\ un\ node\ amb\ una\ dada\ d\ i\ que\ no\ t\u00E9\ seg\u00FCent.\ \r\n\ \ @param\ d\ int\ que\ representa\ la\ dada\ del\ nou\ node.\r\n
+comment1.params=d\ s
+comment1.target=NodeInt(int,\ NodeInt)
+comment1.text=\ Constructor\ B\:\ crea\ un\ node\ amb\ una\ dada\ d,\ enlla\u00E7at\ a\ un\ node\ \r\n\ \ preexistent\ s.\ \r\n\ \ @param\ d\ int\ que\ representa\ la\ dada\ del\ nou\ node.\r\n\ \ @param\ s\ NodeInt\ amb\ el\ qual\ enlla\u00E7ar\ el\ nou\ node.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

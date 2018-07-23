@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParaulesOrd()
+comment0.text=\r\n\ Crea\ una\ seq\u00FC\u00E8ncia\ buida.\r\n
+comment1.params=
+comment1.target=int\ talla()
+comment1.text=\r\n\ Torna\ el\ n\u00FAmero\ d\u2019elements\ en\ la\ seq\u00FC\u00E8ncia.\r\n\ @return\ int\ n\u00FAmero\ d'elements.\r\n
+comment2.params=s
+comment2.target=void\ inserirOrd(java.lang.String)
+comment2.text=\r\n\ Insereix\ ordenadament\ un\ String\ en\ la\ seq\u00FC\u00E8ncia.\r\n\ @param\ s\ String\ a\ inserir.\r\n
+comment3.params=s
+comment3.target=boolean\ eliminar(java.lang.String)
+comment3.text=\r\n\ Elimina\ la\ primera\ ocurr\u00E8ncia\ d'un\ String\ donat\ que\ aparega\ en\ \r\n\ la\ seq\u00FC\u00E8ncia.\ \r\n\ Si\ no\ apareguera,\ s\u2019ha\ de\ tornar\ false\ i\ true\ en\ cas\ contrari.\r\n\ @param\ s\ String\ a\ eliminar.\r\n\ @return\ boolean\ true\ si\ s'elimina\ i\ false\ en\ cas\ contrari.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ \r\n\ Representaci\u00F3\ amb\ String\ de\ la\ seq\u00FC\u00E8ncia.\r\n\ @return\ String\ amb\ les\ dades\ de\ la\ seq\u00FCencia.\ \r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=main\ de\ prova\ dels\ m\u00E8todes\ anteriors
+numComments=6

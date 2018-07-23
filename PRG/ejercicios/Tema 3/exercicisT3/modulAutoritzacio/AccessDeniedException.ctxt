@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AccessDeniedException()
+comment1.params=msg
+comment1.target=AccessDeniedException(java.lang.String)
+numComments=2

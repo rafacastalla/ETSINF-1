@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=username\ password
+comment0.target=void\ check(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Comprova\ si\ un\ usuari,\ de\ nom\ i\ contrassenya\ donats,\ \r\n\ esta\ registrat\ al\ sistema.\r\n\ @param\ username\ String\ amb\ el\ nom\ d'usuari.\r\n\ @param\ password\ String\ amb\ la\ contrassenya.\r\n\ @throws\ InvalidUserException\ si\ el\ nom\ d'usuari\ no\ existeix.\r\n\ @throws\ InvalidPasswordException\ si\ el\ nom\ d'usuari\ existeix\ pero\ \r\n\ la\ contrassenya\ no\ coincideix\ amb\ la\ registrada\ en\ el\ sistema.\r\n\ @throws\ ExpirationDeadlineException\ si\ la\ contrassenya\ caduca\ en\ breu.\r\n
+numComments=1

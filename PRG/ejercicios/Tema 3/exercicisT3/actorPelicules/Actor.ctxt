@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=n\ p
+comment0.target=Actor(java.lang.String,\ java.lang.String)
+comment0.text=\ Crea\ un\ objecte\ Actor\ donats\ un\ nom\ i\ \r\n\ \ una\ pel.licula.\r\n\ \ @param\ n\ String\ amb\ el\ nom.\r\n\ \ @param\ p\ String\ amb\ el\ titol\ d'una\ pel.licula.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPelicula()
+numComments=2

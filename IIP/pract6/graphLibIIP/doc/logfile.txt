@@ -1,0 +1,112 @@
+Project documentation
+<---- javadoc command: ---->
+/opt/jdk1.8.0_60/bin/javadoc
+-sourcepath
+/home/pmarques/graphLibIIP
+-source
+1.8
+-classpath
+/usr/share/bluej/lib/bluejcore.jar:/usr/share/bluej/lib/junit-4.8.2.jar:/home/pmarques/graphLibIIP:/usr/share/bluej/lib/userlib/pi4j-service.jar:/usr/share/bluej/lib/userlib/pi4j-core.jar:/usr/share/bluej/lib/userlib/pi4j-gpio-extension.jar:/usr/share/bluej/lib/userlib/pi4j-device.jar:/home/pmarques/graphLibIIP
+-d
+/home/pmarques/graphLibIIP/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/usr/share/bluej/lib/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+-doctitle
+graphLibIIP
+-windowtitle
+graphLibIIP
+-author
+-version
+-nodeprecated
+-package
+-link
+http://download.oracle.com/javase/8/docs/api/
+graphIIP
+<---- end of javadoc command ---->
+Loading source files for package graphIIP...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_60
+Building tree for all the packages and classes...
+Generating /home/pmarques/graphLibIIP/doc/graphIIP/ComponentImage.html...
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:109: warning - @param argument "wi:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:109: warning - @param argument "he:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:388: warning - @param argument "x1:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:388: warning - @param argument "y1:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:388: warning - @param argument "x2:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:388: warning - @param argument "y2:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:388: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:388: warning - @param argument "lW:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:368: warning - @param argument "x:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:368: warning - @param argument "y:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:368: warning - @param argument "c:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:368: warning - @param argument "pW:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:471: warning - @returns is an unknown tag.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:471: warning - @param argument "ix:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:471: warning - @param argument "iy:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:533: warning - @param argument "e:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:131: warning - @param argument "g:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:492: warning - @param argument "mX:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:492: warning - @param argument "xX:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:492: warning - @param argument "mY:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:492: warning - @param argument "xY:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:445: warning - @returns is an unknown tag.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:445: warning - @param argument "rx:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:445: warning - @param argument "ry:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:412: warning - @param argument "miX:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:412: warning - @param argument "maX:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:412: warning - @param argument "miY:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:412: warning - @param argument "maY:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/ComponentImage.java:554: warning - @param argument "boolean" is not a parameter name.
+Generating /home/pmarques/graphLibIIP/doc/graphIIP/DrawedElement.html...
+Generating /home/pmarques/graphLibIIP/doc/graphIIP/Graph2D.html...
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:115: warning - @param argument "<B>mX</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:115: warning - @param argument "<B>xX</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:115: warning - @param argument "<B>mY</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:115: warning - @param argument "<B>xY</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:66: warning - @param argument "<B>mX</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:66: warning - @param argument "<B>xX</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:66: warning - @param argument "<B>mY</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:66: warning - @param argument "<B>xY</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:66: warning - @param argument "<B>bckColor</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:66: warning - @param argument "<B>t</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:192: warning - @param argument "<B>x1</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:192: warning - @param argument "<B>y1</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:192: warning - @param argument "<B>x2</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:192: warning - @param argument "<B>y2</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:178: warning - @param argument "<B>x1</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:178: warning - @param argument "<B>y1</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:178: warning - @param argument "<B>x2</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:178: warning - @param argument "<B>y2</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:178: warning - @param argument "<B>c</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:178: warning - @param argument "<B>th</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:162: warning - @param argument "<B>x</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:162: warning - @param argument "<B>y</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:153: warning - @param argument "<B>x</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:153: warning - @param argument "<B>y</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:153: warning - @param argument "<B>c</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:153: warning - @param argument "<B>th</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:128: warning - @param argument "<B>c</B>:" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:136: warning - @param argument "<B>th</B>" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:200: warning - @param argument "boolean" is not a parameter name.
+/home/pmarques/graphLibIIP/graphIIP/Graph2D.java:210: warning - @param argument "boolean" is not a parameter name.
+Generating /home/pmarques/graphLibIIP/doc/graphIIP/package-frame.html...
+Generating /home/pmarques/graphLibIIP/doc/graphIIP/package-summary.html...
+Generating /home/pmarques/graphLibIIP/doc/graphIIP/package-tree.html...
+Generating /home/pmarques/graphLibIIP/doc/constant-values.html...
+Generating /home/pmarques/graphLibIIP/doc/serialized-form.html...
+Building index for all the packages and classes...
+Generating /home/pmarques/graphLibIIP/doc/overview-tree.html...
+Generating /home/pmarques/graphLibIIP/doc/index-all.html...
+Building index for all classes...
+Generating /home/pmarques/graphLibIIP/doc/allclasses-frame.html...
+Generating /home/pmarques/graphLibIIP/doc/allclasses-noframe.html...
+Generating /home/pmarques/graphLibIIP/doc/index.html...
+Generating /home/pmarques/graphLibIIP/doc/help-doc.html...
+Generating /home/pmarques/graphLibIIP/doc/stylesheet.css...
+59 warnings

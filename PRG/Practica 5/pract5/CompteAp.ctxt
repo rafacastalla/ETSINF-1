@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=numero\ saldoInicial
+comment0.target=CompteAp(int,\ double)
+comment0.text=\n\ Constructor\ que,\ donats\ un\ n\u00FAmero\ de\ compte\ i\ un\ saldo\ inicial,\ \n\ crea\ un\ compte,\ amb\ un\ apunt\ inicial\ d'ingres.\ \n\ @param\ numCompte\ \n\ \ \ \ \ \ int\ que\ indica\ el\ n\u00FAmero\ de\ compte\ associat\ a\ aquest\ compte.\n\ \ \ \ \ \ Ha\ de\ ser\ un\ enter\ amb\ 5\ d\u00EDgits.\n\ @param\ saldoInicial\ \n\ \ \ \ \ \ double\ que\ indica\ el\ saldo\ inicial\ del\ compte.\n\ \ \ \ \ \ Ha\ de\ ser\ un\ valor\ real\ >\=0.\n
+comment1.params=quantitat
+comment1.target=void\ ingressar(double)
+comment1.text=\n\ Permet\ ingressar\ diners\ en\ el\ compte\ i\ afegir\ l'apunt.\n\ Sobreescriu\ parcialment\ a\ ingressar(double)\ de\ Compte.\n\ @param\ quantitat\ double\ que\ indica\ la\ quantitat\ a\ ingressar.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Ha\ de\ ser\ un\ valor\ real\ >\=0.\n
+comment2.params=quantitat
+comment2.target=void\ retirar(double)
+comment2.text=\n\ Permet\ retirar\ diners\ del\ compte\ i\ afegir\ l'apunt.\n\ Sobreescriu\ parcialment\ a\ retirar(double)\ de\ Compte.\n\ @param\ quantitat\ double\ que\ indica\ la\ quantitat\ a\ retirar.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Ha\ de\ ser\ un\ valor\ real\ >\=0\ i\ <\=saldo.\ \n
+comment3.params=
+comment3.target=int\ getNumApunts()
+comment3.text=\n\ Torna\ el\ n\u00FAmero\ d'apunts\ del\ compte.\n\ @return\ int,\ el\ n\u00FAmero\ d'apunts.\n
+comment4.params=k
+comment4.target=java.lang.String\ ultimsApunts(int)
+comment4.text=\n\ Torna\ una\ String\ amb\ la\ informaci\u00F3\ dels\ \n\ k\ ultims\ apunts\ realitzats\ en\ el\ compte.\n\ El\ String\ resultat\ tindra\ k\ +\ 1\ linies.\ El\ format\n\ de\ la\ primera\ linia\ sera\ "Num.\ Apunts\:\ k/X\\n"\ indicant\n\ que\ se\ consulten\ k\ dels\ X\ apunts\ del\ compte.\n\ Les\ k\ linies\ seguents\ (una\ per\ cada\ apunt)\ constaran\ \n\ de\ la\ descripcio\ i\ la\ quantitat\ de\ l'apunt\ realitzat\n\ (separats\ per\ "\:\ ")\ i\ el\ saldo\ del\ compte\ despres\ de\ \n\ l'apunt.\ Per\ exemple,\ per\ a\ un\ compte\ amb\ 3\ apunts\ en\ la\ \n\ que\ se\ consulten\ els\ 2\ ultims,\ el\ String\ resultant\ seria\:\n\ "Num.\ Apunts\:\ 2/3\\n\n\ \ \ \ \ \ \ \ \ Ingres\:\ \ \ \ \ \ 45.00\ \ \ Saldo\:\ \ \ \ \ 545.00\\n\n\ \ Reintegrament\:\ \ \ \ \ -15.00\ \ \ Saldo\:\ \ \ \ \ 530.00\\n"\n\ @param\ k,\ int\ el\ numero\ d'apunts.\n\ @return\ String.\n
+comment5.params=
+comment5.target=java.lang.String\ apunts()
+comment5.text=\n\ Torna\ una\ String\ amb\ la\ informacio\ de\ \n\ tots\ els\ apunts\ realitzats\ en\ el\ compte.\n\ El\ String\ resultat\ tindra\ tantes\ linies\ com\ \ \n\ apunts\ mes\ 1.\ El\ format\ de\ la\ primera\ linia\ sera\:\n\ "Num.\ Apunts\:\ X/X\\n"\ sent\ X\ el\ numero\ total\ \ \n\ d'apunts\ del\ compte.\ Les\ linies\ seguents\ (una\ per\ \n\ cada\ apunt)\ constaran\ de\ la\ descripcio\ i\ la\ quantitat\n\ de\ l'apunt\ realitzat\ (separats\ per\ "\:\ ")\ i\ el\ saldo\ \ \n\ del\ compte\ despres\ de\ l'apunt.\ Per\ exemple,\ per\ a\ un\n\ compte\ amb\ 3\ apunts,\ el\ String\ resultant\ seria\:\n\ "Num.\ Apunts\:\ 3/3\\n\n\ \ \ \ \ \ \ \ \ Ingres\:\ \ \ \ \ 500.00\ \ \ Saldo\:\ \ \ \ \ 500.00\\n\n\ \ \ \ \ \ \ \ \ Ingres\:\ \ \ \ \ \ 45.00\ \ \ Saldo\:\ \ \ \ \ 545.00\\n\n\ \ Reintegrament\:\ \ \ \ \ -15.00\ \ \ Saldo\:\ \ \ \ \ 530.00\\n"\n\ @return\ String.\n
+comment6.params=
+comment6.target=java.lang.String\ resum()
+comment6.text=\n\ Torna\ una\ String\ amb\ el\ resum\ del\ compte\n\ (numero\ i\ saldo\ separats\ per\ un\ espai\ en\ blanc).\n\ @return\ String.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Torna\ una\ String\ amb\ tota\ la\ informacio\ del\ compte.\n\ Sobreescriu\ parcialment\ al\ toString()\ de\ Compte.\n\ @return\ String.\n
+numComments=8

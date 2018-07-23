@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\ \r\n\ \ Programa\ principal.\r\n\ \ @param\ args\ String[]\ \r\n
+comment1.params=teclat
+comment1.target=int\ menu(java.util.Scanner)
+comment1.text=\ \r\n\ \ Presenta\ un\ menu\ d'opcions\ per\ pantalla.\r\n\ \ @param\ teclat\ Scanner\ per\ fer\ la\ lectura\ de\ l'opcio\ \r\n\ \ triada\ des\ de\ teclat.\ \ \r\n\ \ @return\ int,\ torna\ l'opcio\ valida\ triada\ per\ l'usuari\ \r\n\ \ d'entre\ les\ opcions\ possibles.\r\n
+comment2.params=a\ teclat
+comment2.target=void\ inserirContacte(Agenda,\ java.util.Scanner)
+comment2.text=\r\n\ Metode\ que\ afegeix\ un\ nou\ contacte\ a\ l'agenda\ donada.\r\n\ @param\ a\ Agenda\ on\ s'afegeix\ un\ nou\ contacte.\r\n\ @param\ teclat\ Scanner\ per\ fer\ la\ lectura\ de\ dades.\r\n
+comment3.params=a\ teclat
+comment3.target=void\ recuperarContacte(Agenda,\ java.util.Scanner)
+comment3.text=\r\n\ Metode\ que\ recupera\ la\ informacio\ associada\ a\ un\ nom\ d'un\ contacte\ de\ \r\n\ l'agenda\ donada.\r\n\ @param\ a\ Agenda\ d'on\ es\ recupera\ un\ telefon.\r\n\ @param\ teclat\ Scanner\ per\ fer\ la\ lectura\ de\ dades.\r\n
+numComments=4

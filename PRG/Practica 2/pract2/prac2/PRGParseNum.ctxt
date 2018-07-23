@@ -1,0 +1,29 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=int\ parseDig(char)
+comment0.text=\n\ Torna\ l'enter\ associat\ al\ car\u00E0cter\ -\ d\u00EDgit\ en\ c.\n\ @param\ c\:\ char.\n\ @return\ int\:\ valor\ del\ d\u00ECgit.\n\ PRECONDICI\u00D3\:\ '9'\ >\=\ c\ >\=\ '0'\n
+comment1.params=s
+comment1.target=int\ sumaDigits(java.lang.String)
+comment1.text=\ Retorna\ la\ suma\ dels\ d\u00EDgits\ continguts\ en\ la\ String\ que\ rep.\n\ @param\ s\:\ Cadena\ de\ car\u00E0cters\ sobre\ els\ quals\ s'opera.\n@return\ int.
+comment2.params=s\ pos
+comment2.target=int\ sumaDigits(java.lang.String,\ int)
+comment2.text=\ Retorna\ la\ suma\ dels\ d\u00EDgits\ en\ la\ String\ s\ des\ de\ la\ posici\u00F3\ pos.\n\ PRECONDICI\u00D3\:\ pos\ >\=\ 0.\n\ @param\ s\:\ Cadena\ de\ car\u00E0cters\ sobre\ els\ quals\ s'opera.\n\ @param\ pos\:\ posici\u00F3\ en\ s\ des\ d'on\ es\ treballa.\n@return\ int.
+comment3.params=s
+comment3.target=int\ sumaDigits2(java.lang.String)
+comment3.text=\ Retorna\ la\ suma\ dels\ d\u00EDgits\ continguts\ en\ la\ String\ que\ rep.\n\ @param\ s\ String\ s\:\ Cadena\ de\ car\u00E0cters\ sobre\ els\ quals\ s'opera.\n@return\ int.
+comment4.params=s
+comment4.target=int\ parseUnsignedInt(java.lang.String)
+comment4.text=\ \n\ PRECONDICI\u00D3\:\ s\ cont\u00E9\ un\ enter,\ >\=\ 0,\ ben\ format.\ \n
+comment5.params=s
+comment5.target=int\ parseInt(java.lang.String)
+comment5.text=\ \n\ PRECONDICI\u00D3\:\ s\ cont\u00E9\ un\ enter,\ pot\ ser\ amb\ signe,\ ben\ format.\ \n
+comment6.params=s
+comment6.target=int\ posFracSep(java.lang.String)
+comment6.text=\ \nPRECONDICI\u00D3\:\ s\ cont\u00E9\ un\ nombre\ en\ coma\ flotant\ ben\ format.
+comment7.params=s
+comment7.target=double\ parseFrac(java.lang.String)
+comment7.text=\ \n\ PRECONDICI\u00D3\:\ s,\ cont\u00E9\ els\ d\u00ECgits\ de\ la\ part\ fraccion\u00E0ria\n\ d'un\ valor\ double\ ben\ format.\ \n
+comment8.params=s
+comment8.target=double\ parseDouble(java.lang.String)
+comment8.text=\ \n\ PRECONDICI\u00D3\:\ s\ cont\u00E9\ un\ double,\ ben\ format,\ pot\ ser\ amb\ signe,\ \n\ que\ pot\ tenir\ (o\ no)\ part\ fraccion\u00E0ria.\ No\ cont\u00E9\ part\ exponencial.\n
+numComments=9

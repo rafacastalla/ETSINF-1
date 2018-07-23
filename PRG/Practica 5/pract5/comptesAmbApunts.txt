@@ -1,0 +1,19 @@
+12345 530.0
+Num. Apunts: 3/3
+       Ingres:     500.00   Saldo:     500.00
+       Ingres:      45.00   Saldo:     545.00
+Reintegrament:     -15.00   Saldo:     530.00
+
+34567 60.0
+Num. Apunts: 1/1
+       Ingres:      60.00   Saldo:      60.00
+
+54321 30.0
+Num. Apunts: 2/2
+       Ingres:      50.00   Saldo:      50.00
+Reintegrament:     -20.00   Saldo:      30.00
+
+98765 680.0
+Num. Apunts: 1/1
+       Ingres:     680.00   Saldo:     680.00
+

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=llista\ pelicula
+comment0.target=void\ mostrarRepartiment(Actor[],\ java.lang.String)
+comment0.text=\r\n\ Mostra,\ donat\ un\ llistat\ d'actors\ i\ una\ pel.licula,\r\n\ el\ repartiment\ d'actors\ de\ la\ pel.licula.\r\n\ @param\ llista\ Actor[]\ amb\ una\ llista\ d'actors.\r\n\ @param\ pelicula\ String\ amb\ el\ titol\ d'una\ pel.licula.\r\n
+numComments=1

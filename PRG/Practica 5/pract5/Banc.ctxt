@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Banc()
+comment0.text=\n\ Crea\ un\ banc\ sense\ comptes\ (pot\ tenir\ un\ m\u00E0xim\ de\ MAX_COMPTES\ comptes).\n
+comment1.params=
+comment1.target=int\ getNumComptes()
+comment1.text=\n\ Consultor\ del\ n\u00FAmero\ actual\ de\ comptes.\n\ @return\ int,\ n\u00FAmero\ actual\ de\ comptes.\n
+comment2.params=c
+comment2.target=void\ inserir(CompteAp)
+comment2.text=\n\ Permet\ inserir\ el\ Compte\ c\ al\ banc.\ Si\ el\ banc\ est\u00E0\ complet,\n\ duplica\ el\ n\u00FAmero\ de\ comptes\ que\ poden\ haver\ al\ banc.\n\ @param\ c\ Compte\ a\ inserir.\n
+comment3.params=n
+comment3.target=CompteAp\ getCompte(int)
+comment3.text=\n\ Torna\ el\ compte\ amb\ n\u00FAmero\ de\ compte\ n.\n\ Si\ aquest\ comtpe\ no\ existeix,\ torna\ null.\n\ @param\ n\ int\ que\ indica\ el\ n\u00FAmero\ de\ compte.\n\ @return\ Compte,\ el\ comtpe\ resultat.\n
+comment4.params=n
+comment4.target=boolean\ cancelar(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Torna\ una\ String\ amb\ tota\ la\ informaci\u00F3\ del\ banc.\n\ El\ format\ \u00E9s\ un\ compte\ per\ l\u00EDnia.\n\ @return\ String.\n
+comment6.params=f
+comment6.target=void\ carregarFormatText(java.util.Scanner)
+comment7.params=pw
+comment7.target=void\ guardarFormatText(java.io.PrintWriter)
+comment8.params=os
+comment8.target=void\ guardarFormatObjecte(java.io.ObjectOutputStream)
+comment9.params=is
+comment9.target=void\ carregarFormatObjecte(java.io.ObjectInputStream)
+numComments=10

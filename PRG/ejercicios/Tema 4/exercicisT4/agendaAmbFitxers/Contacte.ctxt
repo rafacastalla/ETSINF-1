@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=n\ t
+comment0.target=Contacte(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Crea\ un\ Contacte\ a\ partir\ d'un\ nom\ i\ un\ telefon.\ \r\n\ @param\ nom\ String\ que\ representa\ un\ nom.\r\n\ @param\ telefon\ String\ que\ representa\ un\ telefon.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNom()
+comment1.text=\r\n\ Torna\ el\ nom.\r\n\ @return\ String\ nom.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTelefon()
+comment2.text=\r\n\ Torna\ el\ telefon.\r\n\ @return\ String\ telefon.\r\n
+comment3.params=nouNom
+comment3.target=void\ setNom(java.lang.String)
+comment3.text=\r\n\ Canvia\ el\ nom.\r\n\ @param\ nouNom\ String\ que\ representa\ el\ nou\ nom.\r\n
+comment4.params=nouTelefon
+comment4.target=void\ setTelefon(java.lang.String)
+comment4.text=\r\n\ Canvia\ el\ telefon.\r\n\ @param\ nouTelefon\ String\ que\ representa\ el\ nou\ telefon.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Sobreescriptura\ del\ metode\ toString\ de\ Object.\r\n\ @return\ String\ amb\ la\ informacio\ del\ Contacte\ actual.\r\n
+numComments=6

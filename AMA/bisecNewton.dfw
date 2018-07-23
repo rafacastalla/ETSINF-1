@@ -1,0 +1,10 @@
+AUX(u,a,b):=IF(LIM(u,x,(a+b)/2)=0,[(a+b)/2,(a+b)/2],IF(LIM(u,x,(a+b)/2)*LIM(u,x,a)<0,[a,(a+b)/2],[(a+b)/2,b]))
+
+BISECS(u,a,b,n):=ITERATES(AUX(u,ELEMENT(v,1),ELEMENT(v,2)),v,[a,b],n)
+
+BISEC(u,a,b,n):=ITERATE(AUX(u,ELEMENT(v,1),ELEMENT(v,2)),v,[a,b],n)
+
+APROX_BISEC(u,a,b,n):=(ELEMENT(BISEC(u,a,b,n),1)+ELEMENT(BISEC(u,a,b,n),2))/2
+
+NEWTON(u,x0,n):=ITERATES(x-u/DIF(u,x),x,x0,n)
+

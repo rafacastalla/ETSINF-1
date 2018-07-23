@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=tec\ missatge
+comment0.target=double\ llegirDoublePos(java.util.Scanner,\ java.lang.String)
+comment0.text=\n\ Llig\ des\ d'un\ Scanner\ i\ torna\ un\ valor\ real\ positiu.\n\ @param\ tec\ Scanner\ per\ a\ lectura\ des\ de\ teclat.\n\ @param\ missatge\ String\ per\ a\ petici\u221A\u2265\ de\ valor.\n\ @return\ double,\ real\ positiu\ llegit.\n
+comment1.params=tec\ missatge
+comment1.target=int\ llegirInt(java.util.Scanner,\ java.lang.String)
+comment1.text=\n\ Llig\ des\ d'un\ Scanner\ i\ torna\ un\ valor\ enter.\n\ @param\ tec\ Scanner\ per\ a\ lectura\ des\ de\ teclat.\n\ @param\ missatge\ String\ per\ a\ petici\u221A\u2265\ de\ valor.\n\ @return\ int,\ enter\ llegit.\n
+comment2.params=tec\ missatge\ lInferior\ lSuperior
+comment2.target=int\ llegirInt(java.util.Scanner,\ java.lang.String,\ int,\ int)
+comment2.text=\n\ Llig\ des\ d'un\ Scanner\ i\ torna\ un\ valor\ enter\ en\ l'interval\ \n\ [lInferior..lSuperior]\ \ tal\ que\ Integer.MIN_VALUE<\=lInferior\ \n\ i\ lSuperior<\=Integer.MAX_VALUE.\n\ @param\ tec\ Scanner\ per\ a\ lectura\ des\ de\ teclat.\n\ @param\ missatge\ String\ per\ a\ petici\u221A\u2265\ de\ valor.\n\ @param\ lInferior\ int\ que\ indica\ el\ l\u221A\u2260mit\ inferior\ de\ l'interval\n\ de\ lectura.\n\ @param\ lSuperior\ int\ que\ indica\ el\ l\u221A\u2260mit\ superior\ de\ l'interval\n\ de\ lectura.\n\ @return\ int,\ enter\ llegit\ en\ l'interval\ [lInferior..lSuperior].\n
+numComments=3

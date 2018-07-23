@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=int\ parseDig(char)
+comment0.text=\r\n\ Torna\ l'enter\ associat\ al\ car\u00E0cter\ -\ d\u00EDgit\ en\ c.\r\n\ @param\ c\:\ char.\r\n\ @return\ int\:\ valor\ del\ d\u00ECgit.\r\n\ PRECONDICI\u00D3\:\ '9'\ >\=\ c\ >\=\ '0'\r\n
+comment1.params=s
+comment1.target=int\ sumaDigits(java.lang.String)
+comment1.text=\ Retorna\ la\ suma\ dels\ d\u00EDgits\ continguts\ en\ la\ String\ que\ rep.\r\n\ @param\ s\:\ Cadena\ de\ car\u00E0cters\ sobre\ els\ quals\ s'opera.\r\n@return\ int.
+comment2.params=s\ pos
+comment2.target=int\ sumaDigits(java.lang.String,\ int)
+comment2.text=\ Retorna\ la\ suma\ dels\ d\u00EDgits\ en\ la\ String\ s\ des\ de\ la\ posici\u00F3\ pos.\r\n\ PRECONDICI\u00D3\:\ pos\ >\=\ 0.\r\n\ @param\ s\:\ Cadena\ de\ car\u00E0cters\ sobre\ els\ quals\ s'opera.\r\n\ @param\ pos\:\ posici\u00F3\ en\ s\ des\ d'on\ es\ treballa.\r\n@return\ int.
+comment3.params=s
+comment3.target=int\ sumaDigits2(java.lang.String)
+comment3.text=\ Retorna\ la\ suma\ dels\ d\u00EDgits\ continguts\ en\ la\ String\ que\ rep.\r\n\ @param\ s\ String\ s\:\ Cadena\ de\ car\u00E0cters\ sobre\ els\ quals\ s'opera.\r\n@return\ int.
+comment4.params=s
+comment4.target=int\ parseUnsignedInt(java.lang.String)
+comment4.text=\ \r\n\ PRECONDICI\u00D3\:\ s\ cont\u00E9\ un\ enter,\ >\=\ 0,\ ben\ format.\ \r\n
+comment5.params=s
+comment5.target=int\ parseInt(java.lang.String)
+comment5.text=\ \r\n\ PRECONDICI\u00D3\:\ s\ cont\u00E9\ un\ enter,\ pot\ ser\ amb\ signe,\ ben\ format.\ \r\n
+numComments=6

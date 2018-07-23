@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ c\ t
+comment0.target=DrawedElement(double,\ double,\ java.awt.Color,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ DrawElem\ (point).\n
+comment1.params=x1\ y1\ x2\ y2\ c\ t
+comment1.target=DrawedElement(double,\ double,\ double,\ double,\ java.awt.Color,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DrawElem\ (line).\n
+comment2.params=
+comment2.target=java.awt.Color\ getColor()
+comment2.text=\ Return\ the\ color\ of\ the\ element.\ \n\ @return\ Color.\ The\ Color\ of\ the\ DrawElem.\n
+comment3.params=
+comment3.target=int\ getThick()
+comment3.text=\ Return\ the\ thickness\ of\ the\ element.\ \n\ @return\ int.\ The\ thickness\ of\ the\ DrawElem.\n
+comment4.params=
+comment4.target=double[]\ getCoord()
+comment4.text=\ Return\ the\ cordinate(s)\ of\ the\ element\ (it\ can\ be\ a\ \n\ \ point\ or\ a\ line).\n\ @return\ double[]\ Array\ with\ the\ (real)\ coordinates\n\ of\ the\ element\ (point\ or\ line).\ \n
+numComments=5

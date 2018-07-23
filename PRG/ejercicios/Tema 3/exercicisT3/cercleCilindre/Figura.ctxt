@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=t\ c
+comment0.target=Figura(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Crea\ una\ nova\ Figura\ d'un\ tipus\ i\ un\ color\ donats.\r\n\ @param\ t\ String\ que\ representa\ el\ tipus.\r\n\ @param\ c\ String\ que\ representa\ el\ color.\r\n
+comment1.params=t
+comment1.target=Figura(java.lang.String)
+comment1.text=\r\n\ Crea\ una\ nova\ Figura\ amb\ el\ color\ per\ defecte,\ d'un\ tipus\ donat.\r\n\ @param\ t\ String\ que\ representa\ el\ tipus.\r\n
+comment2.params=c
+comment2.target=void\ setColor(java.lang.String)
+comment2.text=\r\n\ Estableix\ un\ nou\ color\ per\ a\ la\ Figura\ actual.\r\n\ @param\ c\ String\ que\ representa\ el\ nou\ color.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTipus()
+comment3.text=\r\n\ Torna\ el\ tipus\ de\ la\ Figura\ actual.\r\n\ @return\ String,\ el\ tipus.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment4.text=\r\n\ Torna\ el\ color\ de\ la\ Figura\ actual.\r\n\ @return\ String,\ el\ color.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Torna\ un\ String\ amb\ les\ dades\ de\ la\ Figura\ actual.\r\n\ @return\ String.\r\n
+numComments=6

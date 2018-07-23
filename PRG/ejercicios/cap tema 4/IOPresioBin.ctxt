@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=presions\ nomFitx
+comment0.target=void\ escriuPresionsBin(double[][],\ java.lang.String)
+comment0.text=\r\n\ Escriu\ en\ un\ fitxer\ binari\ (nomFitx)\ els\ valors\ de\ tipus\ double\r\n\ emmagatzemats\ en\ una\ matriu\ (presions).\r\n
+comment1.params=nomFitx\ n
+comment1.target=double[][]\ lligPresionsBin(java.lang.String,\ int)
+comment1.text=\r\n\ Llig\ des\ d\u2019un\ fitxer\ binari\ (nomFitx)\ valors\ de\ tipus\ double\ que\r\n\ va\ emmagatzemant\ en\ una\ matriu\ resultat\ de\ dimensions\ n\ x\ n.\r\n
+numComments=2

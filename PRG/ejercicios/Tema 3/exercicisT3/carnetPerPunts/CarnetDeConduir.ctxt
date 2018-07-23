@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=CarnetDeConduir(java.lang.String)
+comment0.text=\ Crea\ un\ CarnetDeConduir\ a\ nom\ de\ n\ amb\ un\ nombre\r\n\ \ de\ punts\ per\ defecte.\r\n\ \ @param\ n\ String\ amb\ el\ nom.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNom()
+comment1.text=\ Torna\ el\ nom\ del\ carnet.\r\n\ \ @return\ String,\ el\ nom.\ \ \r\n
+comment2.params=penalitzacio
+comment2.target=void\ llevarPunts(int)
+comment2.text=\ Aplica\ la\ penalitzaci\u00F3\ donada\ al\ carnet.\r\n\ \ @param\ penalitzacio\ int\ amb\ el\ nombre\ de\ punts\ a\ descomptar.\ \ \ \r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\ Torna\ un\ String\ amb\ la\ informaci\u00F3\ del\ carnet.\r\n\ \ @return\ String.\ \ \r\n
+numComments=4

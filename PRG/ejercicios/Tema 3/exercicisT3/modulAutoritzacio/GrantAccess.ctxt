@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=username\ password
+comment0.target=void\ grantAccess(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Mostra\ per\ pantalla\ un\ missatge\ indicant\ l'autoritzacio\ per\r\n\ accedir\ al\ sistema\ a\ un\ usuari,\ de\ nom\ i\ contrassenya\ donats,\r\n\ o\ el\ motiu\ pel\ qual\ no\ s'ha\ concedit\ l'acces.\r\n\ @param\ username\ String\ amb\ el\ nom\ d'usuari.\r\n\ @param\ password\ String\ amb\ la\ contrassenya.\r\n\ @throws\ AccessDeniedException\ quan\ el\ nom\ d'usuari\ no\ existeix\r\n\ o\ la\ contrassenya\ no\ coincideix\ amb\ la\ registrada\ al\ sistema.\r\n
+numComments=1

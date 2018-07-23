@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=presions\ nomFitx
+comment0.target=void\ escriuPresions(double[][],\ java.lang.String)
+comment0.text=\r\n\ Escriu\ en\ un\ fitxer\ de\ text\ (nomFitx)\ els\ valors\ de\ tipus\ double\r\n\ emmagatzemats\ en\ una\ matriu\ (presions).\r\n\ Cada\ fila\ de\ la\ matriu\ s\u2019escriu\ en\ una\ l\u00EDnea\ del\ fitxer\ i\r\n\ els\ valors\ de\ cada\ fila\ s\u2019escriuen\ separats\ per\ espais\ en\ blanc.\r\n
+comment1.params=nomFitx\ n
+comment1.target=double[][]\ lligPresions(java.lang.String,\ int)
+comment1.text=\r\n\ Llig\ des\ d\u2019un\ fitxer\ de\ text\ (nomFitx)\ valors\ de\ tipus\ double\ (amb\ el\ "."\r\n\ com\ separador\ decimal)\ que\ va\ emmagatzemant\ en\ una\ matriu\ resultat\ de\r\n\ dimensions\ n\ x\ n.\r\n
+numComments=2

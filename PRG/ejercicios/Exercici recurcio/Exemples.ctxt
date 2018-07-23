@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=elArray\ inici\ fi
+comment0.target=double\ sumarArrayAscendent(double[],\ int,\ int)
+comment0.text=\r\n\ Exemple\ 1\:\ recorregut\ ascendent\ per\ a\ sumar\ tots\ els\ elements\ d'un\ array\ de\ double,\ des\ d'inici\ fins\ a\ fi.\r\n\ \r\n\ precondici\u00F3\ 0\ <\=\ inici\ <\ elArray.length\ &&\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ 0\ <\=\ fi\ <\=\ elArray.length\r\n
+comment1.params=elArray\ inici\ fi
+comment1.target=double\ sumarArrayDescendent(double[],\ int,\ int)
+comment1.text=\r\n\ Exemple\ 2\:\ recorregut\ ascendent\ per\ a\ sumar\ tots\ els\ elements\ d'un\ array\ de\ double,\ des\ de\ fi\ fins\ a\ inici.\r\n\ \r\n\ precondici\u00F3\ 0\ <\=\ inici\ <\ elArray.length\ &&\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ -1\ <\=\ fi\ <\ elArray.length\r\n
+comment10.params=a\ ini\ fin
+comment10.target=boolean\ esCapicua(java.lang.String[],\ int,\ int)
+comment2.params=elArray\ inici\ fi
+comment2.target=int\ primer0(double[],\ int,\ int)
+comment2.text=\r\n\ Exemple\ 3\:\ cerca\ ascendent\ per\ a\ sumar\ tots\ els\ elements\ d'un\ array\ de\ double,\ des\ d'inici\ fins\ a\ fi.\r\n\ \r\n\ precondici\u00F3\ 0\ <\=\ inici\ <\=\ elArray.length\ &&\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ 0\ <\=\ fi\ <\ elArray.length\r\n
+comment3.params=elArray\ inici\ fi
+comment3.target=int\ primer0desc(double[],\ int,\ int)
+comment4.params=a\ dato\ ini\ fin
+comment4.target=int\ buscaBinR(java.lang.String[],\ java.lang.String,\ int,\ int)
+comment5.params=n
+comment5.target=void\ ejercicio10(int)
+comment6.params=n
+comment6.target=int\ ejercicio10Bis(int)
+comment7.params=n
+comment7.target=long\ ejercicio11(int)
+comment8.params=a
+comment8.target=boolean\ ejercicio13(java.lang.String)
+comment9.params=a
+comment9.target=boolean\ esCapicua(java.lang.String[])
+numComments=11

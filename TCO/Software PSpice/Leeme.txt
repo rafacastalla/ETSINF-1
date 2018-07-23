@@ -1,0 +1,7 @@
+1.- Para instalar el pspice versión de estudiante se debe ejecutar el fichero pspice.part1 este programa únicamente descomprime los ficheros de instalación del simulador en un directorio llamado spice.
+
+2.- Para instalarlo ejecutar setup.exe dentro del directorio spice.
+
+3.- Cuando os pregunte sobre el editor indicarle que instale schematics.
+
+4.- Borrar el directorio pspice y los ficheros spice.part1 spice.part2

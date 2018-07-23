@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Persona(java.lang.String)
+comment0.text=\ Crea\ un\ objecte\ Persona\ amb\ un\ nom\ donat.\ \ \ \ \ \r\n\ \ @param\ n\ String\ que\ representa\ el\ nom.\ \ \r\n
+numComments=1
