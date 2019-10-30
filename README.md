@@ -18,6 +18,9 @@ __Asignaturas__
 
 Introducción al concepto de Empresa como realidad socioeconómica; el empresario y las funciones de la Gestión de Organizaciones. Estudio de su entorno económico, el mercado, la competitividad y el concepto de dirección estratégica. La estructura de la empresa como organización, formas y clases de empresas. La función directiva. Introducción a las áreas funcionales de la empresa: la inversión, el sistema de financiación, el sistema de producción, operaciones, y el sistema de comercialización o marketing. Estudio de la tecnología y los flujos de información y comunicación dentro y fuera de la empresa.
 
+- Video: <br/>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/y35RekKyKec/0.jpg)](https://www.youtube.com/watch?v=y35RekKyKec)
+
 -----
 ### **Estadística**
 
@@ -29,6 +32,9 @@ La asignatura pretende formar a los futuros ingenieros en las técnicas estadís
 Al cursar la asignatura de FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA, el alumno ha de ser capaz de:
 - Conocer y aplicar los conceptos propios de la electricidad, electromagnetismo y semiconductores. Resolver redes eléctricas lineales planas mediante las leyes de Kirchhoff y otros métodos.
 - Utilizar los aparatos de medida en circuitos eléctricos: Conocer y aplicar la metodología propia del laboratorio de electricidad
+
+- Como aprender las formulas: <br/>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XRxtD6rFs5U/0.jpg)](https://www.youtube.com/watch?v=XRxtD6rFs5U)
 
 -----
 ### **Introducción a la informática y a la programación**
@@ -120,6 +126,9 @@ BLOQUE 3
 6. DIAGONALIZACIÓN. APLICACIONES.
 
 En las sesiones de prácticas de laboratorio se ampliarán los contenidos de la asignatura antes mencionados con aplicaciones del Álgebra Lineal: cadenas de Markov, mínimos cuadrados, algoritmo "PageRank" , ...
+
+- Video: <br/>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/CCwd6TC16Ew/0.jpg)](https://www.youtube.com/watch?v=CCwd6TC16Ew)
 
 -----
 ### **Matemática discreta**
